@@ -12,7 +12,7 @@
    <a href="https://www.instagram.com/vuvietnek/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
-  <a href="https://vuviet.tk" target="_blank">
+  <a href="https://vitvu.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-2a8?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>  
 
@@ -39,10 +39,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-	<img alt="Vu Viet Github Stats" src="https://github-readme-stats.vercel.app/api?username=vudinhviett&show_icons=true&count_private=true" height="192px"/>
+	<img alt="Vu Viet Github Stats" src="https://github-readme-stats.vercel.app/api?username=vitvu&show_icons=true&count_private=true" height="192px"/>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vudinhviett&show_icons=true&locale=en&layout=compact" alt="vudinhviett" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitvu&show_icons=true&locale=en&layout=compact" alt="vitvu" height="192px"/>
   <br/>
   </p>
 </details>
@@ -51,7 +51,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/vudinhviett"><img alt="Vu Viet Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vudinhviett&custom_title=Vu%20Viet" /></a>
+   <a href="https://github.com/vitvu"><img alt="Vu Viet Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vitvu&custom_title=Vu%20Viet" /></a>
   <br/>
 
 </details>
@@ -59,13 +59,13 @@
 <br/>
 
 ## Popular Projects
-<a href="https://github.com/vudinhviett/vuviet.tk">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vudinhviett&repo=vuviet.tk" />
+<a href="https://github.com/vitvu/vitvu.github.io">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitvu&repo=vitvu.github.io" />
 </a>  
 
 
-<a href="https://github.com/vudinhviett/project">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vudinhviett&repo=project" />
+<a href="https://github.com/vitvu/project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vitvu&repo=project" />
 </a> 
 
 ----------------------------------------------------------------------
