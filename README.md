@@ -9,7 +9,7 @@
    <a href="https://www.facebook.com/100038052640982" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&labelColor=black&logo=facebook">
   </a>   
-   <a href="https://www.instagram.com/vuvietnek/" target="_blank">
+   <a href="https://www.instagram.com/vuvieeet/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a href="https://vitvu.github.io" target="_blank">
